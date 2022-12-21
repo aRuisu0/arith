@@ -1,0 +1,1 @@
+{"rustc":8344542133073785937,"features":"[\"raw_os_str\"]","target":8535294919278712729,"profile":6269190295429226618,"path":9231063048488821334,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\os_str_bytes-23b8a58a80894aa9\\dep-lib-os_str_bytes"}}],"rustflags":[],"metadata":15696493276984443709,"config":2202906307356721367,"compile_kind":0}
